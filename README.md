@@ -1,7 +1,11 @@
 The Powder Toy - April 1st 2024
 ==========================
 
-Get the latest version [from the Powder Toy website](https://powdertoy.co.uk/Download.html).
+This fork is the sreenshot of the April fool version (I think) of the Power Toys 2024. I forked for the sake of the game history to not be forgettenn and to still play this "funny" version. 
+
+Get the real powder toys - > https://powdertoy.co.uk/Download.html 
+
+The rest is what was on the April Fool 2024 day - > 
 
 To use online features such as saving, you need to [register an account](https://powdertoy.co.uk/Register.html).
 You can also visit [the official TPT forum](https://powdertoy.co.uk/Discussions/Categories/Index.html).
